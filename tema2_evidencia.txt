@@ -1,0 +1,1 @@
+Nombre: Nestor Quispe Condori - fecha: 16/09/2026 aprendi a inicializar con y gestionar repositorios con Git y Github
