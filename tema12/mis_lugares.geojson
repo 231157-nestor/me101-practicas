@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Casa (Calle Romeritos 820)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8811,
+          -13.5429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Colegio Fe y Alegria Nro 21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.88143,
+          -13.54433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Plaza de Armas de San Jeronimo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.88422,
+          -13.54397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Mercado Vinocanchon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.88781,
+          -13.54359
+        ]
+      }
+    }
+  ]
+}
